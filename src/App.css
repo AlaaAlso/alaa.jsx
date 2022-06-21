@@ -1,0 +1,35 @@
+*{
+background-color: #FFFFFC ;
+font-family: 'Catull', sans-serif;
+/*font-family: 'Universitas Studii Salamantini', sans-serif;*/
+}
+.navbar-nav{
+margin: 10px 850px;
+}
+h1{
+  text-align: center;
+}
+.mine{
+  display: flex;
+  justify-content: space-around;
+}
+.mine p{
+  margin: 20px;
+  padding: 0 70px 0 0;
+}
+.mine{
+  margin: 20px;
+}
+.title{
+  color: #D91414;
+}
+.lastdiv{
+  display: flex;
+justify-content: space-around;
+}
+.imgmove{
+  margin: 20px;
+}
+ iframe{
+  margin: 10px 455px;
+}
